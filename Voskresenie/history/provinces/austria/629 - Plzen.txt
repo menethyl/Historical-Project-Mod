@@ -1,0 +1,11 @@
+owner = SDL
+controller = SDL
+add_core = SDL
+add_core = GER
+trade_goods = coal
+life_rating = 35
+state_building = {
+    level = 1
+    building = artillery_factory
+    upgrade = yes
+}
