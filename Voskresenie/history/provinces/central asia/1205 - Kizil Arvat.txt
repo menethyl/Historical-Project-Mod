@@ -1,6 +1,6 @@
-owner = KHI
-controller = KHI
-add_core = KHI
+owner = TKS
+controller = TKS
+add_core = TKS
 add_core = TKM
 terrain = desert
 trade_goods = fish

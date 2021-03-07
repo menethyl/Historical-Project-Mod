@@ -1,7 +1,6 @@
-owner = BUK
-controller = BUK
-add_core = KHI
-add_core = BUK
+owner = TKS
+controller = TKS
+add_core = TKS
 add_core = TKM
 trade_goods = grain
 life_rating = 35

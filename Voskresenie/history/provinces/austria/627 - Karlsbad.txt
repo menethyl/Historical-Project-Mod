@@ -1,6 +1,6 @@
-owner = SDL
-controller = SDL
-add_core = SDL
+owner = SDT
+controller = SDT
+add_core = SDT
 add_core = GER
 trade_goods = iron
 life_rating = 35

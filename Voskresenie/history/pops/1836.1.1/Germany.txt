@@ -5421,7 +5421,6 @@
 #under the rule of Prussia in 1836
 #Konigsberg (484000/121000 POPS)
 695 = {
-    
 	aristocrats = {
 		culture = prussian
 		religion = catholic

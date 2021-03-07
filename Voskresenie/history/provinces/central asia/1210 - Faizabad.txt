@@ -1,5 +1,6 @@
-owner = BDK
-controller = BDK
+owner = TKS
+controller = TKS
+add_core = TKS
 add_core = BDK
 add_core = AFG
 trade_goods = wool

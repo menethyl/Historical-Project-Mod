@@ -1,5 +1,6 @@
-owner = TAR
-controller = TAR
+owner = TKS
+controller = TKS
+add_core = TKS
 add_core = TAR
 trade_goods = iron
 life_rating = 35

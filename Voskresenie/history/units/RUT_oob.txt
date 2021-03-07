@@ -1,112 +1,67 @@
 #Sphere of Influence
 
 #Europe
-MON = {
-    value = -10
-    level = 5
-    influence_value = 0
-}
 
-TCA = {
+EST = {
     value = 200
     level = 5
     influence_value = 0
 }
 
-UBD = {
+LAT = {
     value = 200
     level = 5
     influence_value = 0
 }
 
-ABK = {
+LIT = {
     value = 200
     level = 5
     influence_value = 0
 }
 
-FIN = {
-    value = 100
+KAR = {
+    value = 200
     level = 5
     influence_value = 0
 }
-SWE = {
-    value = 125
-    level = 3
-    influence_value = 0
-}
-SER = {
-    value = 125
-    level = 4
-    influence_value = 0
-}
-GRE = {
-    value = 125
-    level = 4
-    influence_value = 0
-}
-KRA = {
-    value = 125
-    level = 4
-    influence_value = 0
-}
-DEN = {
-    value = 125
-}
-MOL = {
-    value = 125
-    level = 4
-    influence_value = 0
-}
-WAL = {
-    value = 125
-    level = 4
-    influence_value = 0
-}
 
-#Asia
-QNG = {
-    value = 75
-}
-TKG = {
-    value = 75
-}
-KOR = {
-    value = 100
-    level = 0
+TAT = {
+    value = 200
+    level = 5
     influence_value = 0
-}
-MGL = {
-    value = 100
-}
-
-MCK = {
-    value = 100
-    level = 3
-    influence_value = 0
-}
-
-PER = {
-    value = -50
-    level = 2
-    influence_value = 0
-}
-
-XIN = {
-    value = -200
-    level = 0
-    influence_value = 0
-}
-
-AFG = {
-    value = 100
 }
 
 CIR = {
-    value = -200
-    level = 1
-    influence_value = 1
+    value = 200
+    level = 5
+    influence_value = 0
 }
+
+CHE = {
+    value = 200
+    level = 5
+    influence_value = 0
+}
+
+GEO = {
+    value = 200
+    level = 5
+    influence_value = 0
+}
+
+ARM = {
+    value = 200
+    level = 5
+    influence_value = 0
+}
+
+MOL = {
+    value = 200
+    level = 5
+    influence_value = 0
+}
+
 
 #Other GP's
 #GPs
@@ -180,7 +135,6 @@ army = {
         type = artillery
         home = 994
     }
-
 }
 
 army = {
@@ -249,8 +203,7 @@ army = {
 
 army = {
     name = "3-i Armeiskii Korpus" #Vilna/Marijampole - Baltic Army
-    location = 362
-
+    location = 702
     regiment = {
         name = "3.1-ya Pekhotnaya Diviziya"
         type = infantry
@@ -315,7 +268,6 @@ army = {
 army = {
     name = "4-i Armeiskii Korpus" #Kiev/Ukrainian Army
     location = 958
-
     regiment = {
         name = "4.1-ya Pekhotnaya Diviziya"
         type = infantry
@@ -380,8 +332,6 @@ army = {
 army = {
     name = "5-i Armeiskii Korpus"
     location = 1008
-
-
     regiment = {
         name = "5.1-ya Pekhotnaya Diviziya"
         type = infantry
@@ -445,7 +395,7 @@ army = {
 
 army = {
     name = "6-i Armeiskii Korpus" #Crimean Army
-    location = 1057
+    location = 1041
     regiment = {
         name= "6.1-ya Pekhotnaya Diviziya"
         type = infantry
@@ -499,14 +449,11 @@ army = {
         type = cavalry
         home = 943
     }
-
 }
 
 army = {
     name = "7-i Armeiskii Korpus" #Poland Army
-    location = 706
-
-
+    location = 937
     regiment = {
         name= "7.1-ya Pekhotnaya Diviziya"
         type = infantry
@@ -572,8 +519,6 @@ army = {
 army = {
     name = "8-i Armeiskii Korpus" #Odessa Army
     location = 968
-
-
     regiment = {
         name= "8.1-ya Pekhotnaya Diviziya"
         type = infantry
@@ -637,8 +582,7 @@ army = {
 
 army = {
     name = "1-i Kavkazskii Korpus"
-    location = 1048
-
+    location = 1047
     regiment = {
         name= "1.1-ya Kavkazskii Pekhotnaya Diviziya"
         type = infantry
@@ -698,12 +642,11 @@ army = {
         type = artillery
         home = 1039
     }
-
 }
 
 army = {
     name = "Ural Host"
-    location = 1058
+    location = 991
     regiment = {
         name= "1.Don Cossacks"
         type = cavalry
@@ -744,8 +687,7 @@ army = {
 
 army = {
     name = "1-i Sibirskii Korpus" #Siberian Army
-    location = 1075
-
+    location = 1020
     regiment = {
         name = "1.1-ya Sibirskii Pekhotnaya Diviziya"
         home = 1039
@@ -775,9 +717,7 @@ army = {
         type = cavalry
         home = 1019
     }
-
 }
-
 
 navy = {
     name = "Imperial Black Sea Fleet"
@@ -857,7 +797,6 @@ navy = {
         type = manowar
     }
 
-
     ship = {
         name= "1. Transportnaya Flotiliya"
         type = clipper_transport
@@ -867,12 +806,11 @@ navy = {
         name= "2. Transportnaya Flotiliya"
         type = clipper_transport
     }
-
 }
 
 navy = {
     name = "Imperial Northern Fleet"
-    location = 994
+    location = 2588
     ship = {
         name= "Dvenadtsat' Apostolov"
         type = manowar
@@ -942,7 +880,6 @@ navy = {
         name= "4. Transportnaya Flotiliya"
         type = clipper_transport
     }
-
 }
 
 leader = {
@@ -1121,7 +1058,7 @@ leader = {
 }
 
 leader = {
-    name = "Alexander von Lüders"
+    name = "Alexander von Lï¿½ders"
     picture = rus_gen_lueders
     date = 1829.1.1
     type = land

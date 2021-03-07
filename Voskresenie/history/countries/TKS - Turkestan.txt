@@ -1,9 +1,9 @@
-capital = 1195
-primary_culture = uzbek
-culture = turkmen
+capital = 1200
+primary_culture = turkmen
+culture = uzbek
 culture = kirgiz
 culture = kazak
-culture = uighur
+culture = tatar
 culture = tajik
 religion = sunni
 government = absolute_monarchy

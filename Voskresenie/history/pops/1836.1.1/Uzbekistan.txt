@@ -427,18 +427,6 @@
         size = 4300
     }
 
-    soldiers = {
-        culture = uzbek
-        religion = sunni
-        size = 16000
-    }
-
-    farmers = {
-        culture = uzbek
-        religion = sunni
-        size = 142950
-    }
-
     aristocrats = {
         culture = tajik
         religion = sunni
@@ -623,50 +611,62 @@
 }
 #Qarshi (280000/70000 POPS)
 1200 = {
+
+    soldiers = {
+        culture = turkmen
+        religion = sunni
+        size = 16000
+    }
+
+    farmers = {
+        culture = turkmen
+        religion = sunni
+        size = 142950
+    }
     aristocrats = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 1100
     }
 
     clergymen = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 500
     }
 
     artisans = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 2550
     }
 
     soldiers = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 525
     }
 
     farmers = {
-        culture = uzbek
+        culture = turkmen
         religion = sunni
         size = 46425
     }
 
     aristocrats = {
-        culture = tajik
+        culture = turkmen
         religion = sunni
         size = 225
     }
 
     clergymen = {
-        culture = tajik
+        culture = turkmen
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = tajik
+        culture = turkmen
         religion = sunni
         size = 500
     }
@@ -714,7 +714,7 @@
     }
 
     slaves = {
-        culture = uighur
+        culture = turkmen
         religion = sunni
         size = 8000
     }

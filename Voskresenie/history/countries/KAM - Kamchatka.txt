@@ -3,9 +3,8 @@ primary_culture = inuit
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_tradition
 literacy = 0.01
-civilized = yes
 
 # Political reforms
 slavery = no_slavery

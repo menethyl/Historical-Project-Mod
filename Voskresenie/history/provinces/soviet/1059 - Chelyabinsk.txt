@@ -1,3 +1,4 @@
-owner = URA
-controller = URA
-add_core = URA
+owner = TKS
+controller = TKS
+add_core = TKS
+add_core = KAZ

@@ -1,6 +1,6 @@
-owner = URA
-controller = URA
-add_core = URA
+owner = RUT
+controller = RUT
+add_core = RUT
 trade_goods = timber
 terrain = boreal
 life_rating = 10

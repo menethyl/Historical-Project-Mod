@@ -550,19 +550,19 @@
 	########
 
 	clergymen = {
-		culture = lithuanian
+		culture = prussian
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = lithuanian
+		culture = prussian
 		religion = catholic
 		size = 950
 	}
 
 	soldiers = {
-		culture = lithuanian
+		culture = prussian
 		religion = catholic
 		size = 1100
 	}
@@ -570,11 +570,17 @@
 	farmers = {
 		culture = lithuanian
 		religion = catholic
-		size = 16100
+		size = 8100
 	}
 
 	farmers = {
-		culture = lithuanian
+		culture = prussian
+		religion = catholic
+		size = 8900
+	}
+
+	farmers = {
+		culture = prussian
 		religion = protestant
 		size = 1000
 	}
