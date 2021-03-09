@@ -41,54 +41,54 @@
 
 	aristocrats = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 5
 	}
 
 	clergymen = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 13
 	}
 
 	artisans = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 18
 	}
 
 	officers = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 5
 	}
 
 	soldiers = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 20
 	}
 
 	farmers = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 100
 	}
 
 	aristocrats = {
-		culture = native_american_minor
+		culture = alaskan
 		religion = animist
 		size = 50
 	}
 
 	aristocrats = {
-		culture = inuit
+		culture = alaskan
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = alaskan
 		religion = animist
 		size = 1950
 	}
@@ -98,25 +98,25 @@
 
 	clergymen = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 5
 	}
 
 	artisans = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 5
 	}
 
 	soldiers = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 5
 	}
 
 	farmers = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 15
 	}
 
@@ -145,7 +145,7 @@
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = alaskan
 		religion = animist
 		size = 1010
 	}
@@ -155,25 +155,25 @@
 
 	clergymen = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 5
 	}
 
 	artisans = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 5
 	}
 
 	soldiers = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 10
 	}
 
 	farmers = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 20
 	}
 
@@ -202,13 +202,13 @@
 	}
 
 	farmers = {
-		culture = inuit
+		culture = alaskan
 		religion = animist
 		size = 405
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = alaskan
 		religion = animist
 		size = 100
 	}
@@ -218,25 +218,25 @@
 
 	clergymen = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 5
 	}
 
 	artisans = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 5
 	}
 
 	soldiers = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 10
 	}
 
 	farmers = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 20
 	}
 
@@ -265,35 +265,34 @@
 	}
 
 	farmers = {
-		culture = inuit
+		culture = alaskan
 		religion = animist
 		size = 380
 	}
 }
 #Dutch Harbor/Unalaska (2000/500 POPS)
 5 = {
-
 	clergymen = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 5
 	}
 
 	artisans = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 5
 	}
 
 	soldiers = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 10
 	}
 
 	farmers = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 20
 	}
 
@@ -322,13 +321,13 @@
 	}
 
 	farmers = {
-		culture = inuit
+		culture = alaskan
 		religion = animist
 		size = 325
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = alaskan
 		religion = animist
 		size = 250
 	}
@@ -337,7 +336,7 @@
 2599 = {
 
 	farmers = {
-		culture = native_american_minor
+		culture = alaskan
 		religion = animist
 		size = 545
 	}
@@ -346,7 +345,7 @@
 2630 = {
 
 	farmers = {
-		culture = native_american_minor
+		culture = alaskan
 		religion = animist
 		size = 400
 	}
@@ -356,25 +355,25 @@
 
 	clergymen = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 5
 	}
 
 	artisans = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 5
 	}
 
 	soldiers = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 10
 	}
 
 	farmers = {
 		culture = alaskan
-		religion = orthodox
+		religion = animist
 		size = 20
 	}
 
@@ -409,7 +408,7 @@
 	}
 
 	farmers = {
-		culture = native_american_minor
+		culture = alaskan
 		religion = animist
 		size = 250
 	}

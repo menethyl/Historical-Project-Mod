@@ -1,4 +1,4 @@
-capital = 1468
+capital = 1465
 primary_culture = mongol
 religion = gelugpa
 government = absolute_monarchy

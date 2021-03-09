@@ -2,6 +2,198 @@
 #under the rule of China in 1836
 #Urga (376000/94000 POPS)
 1465 = {
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 175
+	}
+
+    aristocrats = {
+        culture = mongol
+        religion = gelugpa
+        size = 50
+    }
+
+    clergymen = {
+        culture = mongol
+        religion = gelugpa
+        size = 75
+    }
+
+    aristocrats = {
+        culture = mongol
+        religion = gelugpa
+        size = 925
+    }
+
+    clergymen = {
+        culture = mongol
+        religion = gelugpa
+        size = 475
+    }
+
+    artisans = {
+        culture = mongol
+        religion = gelugpa
+        size = 2350
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = gelugpa
+        size = 475
+    }
+
+    farmers = {
+        culture = mongol
+        religion = gelugpa
+        size = 35775
+    }
+
+    serfs = {
+        culture = mongol
+        religion = gelugpa
+        size = 8000
+    }
+
+    artisans = {
+        culture = mongol
+        religion = gelugpa
+        size = 150
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = gelugpa
+        size = 25
+    }
+
+    farmers = {
+        culture = mongol
+        religion = gelugpa
+        size = 2700
+    }
+
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 35
+	}
+
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 325
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 175
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 850
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 175
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 8500
+	}
+
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 175
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 75
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 50
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 100
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 800
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 15
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 85
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 15
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 2500
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 125
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 26000
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 600
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 125
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 24975
+	}
+
     aristocrats = {
         culture = mongol
         religion = gelugpa

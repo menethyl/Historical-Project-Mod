@@ -6,6 +6,14 @@ vassal = {
     end_date = 2000.1.1
 }
 
+#TKS - TAR
+vassal = {
+    first = TKS
+    second = TAR
+    start_date = 1836.1.1
+    end_date = 2000.1.1
+}
+
 #SWE - FIN
 vassal = {
     first = SWE

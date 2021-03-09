@@ -2980,6 +2980,114 @@
 #under the rule of Russia in 1836
 #Novgorod (240000/60000 POPS)
 1003 = {
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 3000
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 500
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 5000
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 6000
+    }
+
+    bureaucrats = {
+        culture = russian
+        religion = orthodox
+        size = 50
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 75
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 150
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 25
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 2700
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 30
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 45
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 25
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 1150
+    }
+
+    bureaucrats = {
+        culture = russian
+        religion = orthodox
+        size = 20
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 15
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 35
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 15
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 665
+    }
+
 	artisans = {
 		culture = russian
 		religion = orthodox
@@ -5567,6 +5675,24 @@
 }
 #Tsaritsyn (1072000/268000 POPS)
 1039 = {
+	farmers = {
+		culture = volga_german
+		religion = protestant
+		size = 10650
+	}
+
+	clergymen = {
+		culture = volga_german
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = volga_german
+		religion = catholic
+		size = 2300
+	}
+	
 	clergymen = {
 		culture = volga_german
 		religion = catholic
@@ -6933,31 +7059,31 @@
 #Nizhnevartovsk (4000/1000 POPS) => Nyagan
 1065 = {
 	aristocrats = {
-		culture = ugrian
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = siberian
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = siberian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = siberian
 		religion = animist
 		size = 500
 	}
@@ -7233,19 +7359,19 @@
 #Napalkovo (1000/250 POPS)
 2659 = {
 	aristocrats = {
-		culture = ugrian
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = siberian
 		religion = animist
 		size = 10
 	}
@@ -7257,7 +7383,7 @@
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = siberian
 		religion = animist
 		size = 225
 	}
@@ -7297,31 +7423,31 @@
 #Krasnoselkup (2200/550 POPS)
 2615 = {
 	aristocrats = {
-		culture = ugrian
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = siberian
 		religion = animist
 		size = 20
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = siberian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = siberian
 		religion = animist
 		size = 20
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = siberian
 		religion = animist
 		size = 900
 	}
@@ -7896,31 +8022,31 @@
 #Saskylah (1000/250 POPS)
 2653 = {
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 230
 	}
@@ -7952,31 +8078,31 @@
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 275
 	}
@@ -8274,31 +8400,31 @@
 #Olenyok (1000/250 POPS)
 2673 = {
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 3
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 220
 	}
@@ -8337,35 +8463,28 @@
 }
 #Tiksi (1000/250 POPS) => Verkhneudinsk
 2670 = {
-
 	aristocrats = {
-		culture = mongol
+		culture = siberian
 		religion = gelugpa
 		size = 325
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = siberian
 		religion = gelugpa
 		size = 175
 	}
 
 	artisans = {
-		culture = mongol
+		culture = siberian
 		religion = gelugpa
 		size = 850
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = siberian
 		religion = gelugpa
 		size = 175
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 26000
 	}
 }
 #Kular (1000/250 POPS)
@@ -8402,37 +8521,6 @@
 }
 #Zhilinda (1000/250 POPS) => Barguzin
 2671 = {
-
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 35
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 15
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 85
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 15
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 2500
-	}
-
 	farmers = {
 		culture = siberian
 		religion = animist
@@ -8452,31 +8540,31 @@
 #Syasir (1000/250 POPS)
 2620 = {
 	aristocrats = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 230
 	}
@@ -8484,31 +8572,31 @@
 #Beryezovka (1000/250 POPS)
 2660 = {
 	aristocrats = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 230
 	}
@@ -8517,31 +8605,31 @@
 #Aldan (1000/250 POPS)
 2696 = {
 	aristocrats = {
-		culture = siberian
+		culture = yakut
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = siberian
+		culture = yakut
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = siberian
+		culture = yakut
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = yakut
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = siberian
+		culture = yakut
 		religion = animist
 		size = 230
 	}
@@ -8549,31 +8637,31 @@
 #Chernomin (1000/250 POPS)
 1080 = {
 	aristocrats = {
-		culture = siberian
+		culture = manchu
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = siberian
+		culture = manchu
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = siberian
+		culture = manchu
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = manchu
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = siberian
+		culture = manchu
 		religion = animist
 		size = 230
 	}
@@ -8683,31 +8771,31 @@
 #Okhotsk (4000/1000 POPS)
 1072 = {
 	aristocrats = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 230
 	}
@@ -8715,31 +8803,31 @@
 #Ayan (3000/750 POPS)
 2641 = {
 	aristocrats = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 450
 	}
@@ -8747,31 +8835,31 @@
 #Susuman (2000/500 POPS)
 2639 = {
 	aristocrats = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 230
 	}
@@ -8779,31 +8867,31 @@
 #Ola (2000/500 POPS)
 2618 = {
 	aristocrats = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 230
 	}
@@ -8813,25 +8901,25 @@
 #Petropavlovsk (4000/1000 POPS)
 1074 = {
 	clergymen = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 3
 	}
 
 	artisans = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 5
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 140
 	}
@@ -8839,31 +8927,31 @@
 #Omsukchan (1000/250 POPS)
 2638 = {
 	aristocrats = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 230
 	}
@@ -8871,31 +8959,31 @@
 #Kamenskoye (1000/250 POPS)
 2663 = {
 	aristocrats = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 230
 	}
@@ -8903,31 +8991,31 @@
 #Korf/Tilichiki (1000/250 POPS)
 2616 = {
 	aristocrats = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 230
 	}
@@ -8935,31 +9023,31 @@
 #Palana/Ossora (1000/250 POPS)
 2633 = {
 	aristocrats = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 230
 	}
@@ -8967,31 +9055,31 @@
 #Yevensk (2000/500 POPS) => Gizhiga
 1073 = {
 	aristocrats = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 450
 	}
@@ -9001,31 +9089,31 @@
 #Rassvet (1000/250 POPS)
 2634 = {
 	aristocrats = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 230
 	}
@@ -9097,31 +9185,31 @@
 #Nizhnekolymsk (600/150 POPS)
 2661 = {
 	aristocrats = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 3
 	}
 
 	artisans = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 4
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 135
 	}
@@ -9129,31 +9217,31 @@
 #Markovo (600/150 POPS)
 2622 = {
 	aristocrats = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 3
 	}
 
 	artisans = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 4
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = siberian
+		culture = inuit
 		religion = animist
 		size = 135
 	}
@@ -9313,37 +9401,6 @@
 #under the rule of Russia in 1836
 #Irkutsk (289000/72250 POPS) #Mongol = Buryat
 1075 = {
-
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 175
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 125
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 600
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 125
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 24975
-	}
-
 	aristocrats = {
 		culture = siberian
 		religion = animist
@@ -9476,66 +9533,6 @@
 #under the rule of Russia in 1836
 #Chita (216000/54000 POPS) #Mongol = Buryat
 1078 = {
-	aristocrats = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
-
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
-
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 100
-	}
-
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 1100
-	}
-
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 400
-	}
-
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 325
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 175
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 850
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 175
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 8500
-	}
-
 	farmers = {
 		culture = siberian
 		religion = animist
@@ -9544,36 +9541,6 @@
 }
 #Nerchinsk (160000/40000 POPS) #Mongol = Buryat
 1079 = {
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 175
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 75
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 50
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 100
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 800
-	}
-
 	aristocrats = {
 		culture = siberian
 		religion = animist
@@ -9984,64 +9951,27 @@
 		religion = animist
 		size = 700
 	}
-
 }
 #Sakhalin-Kurile Region (16200)
 #uncolonized in 1836
 #Pogobi (4100/1025 POPS)
 1086 = {
-	farmers = {
-		culture = volga_german
-		religion = protestant
-		size = 10650
+	aristocrats = {
+		culture = ainu
+		religion = animist
+		size = 7
 	}
 
 	clergymen = {
-		culture = volga_german
-		religion = catholic
-		size = 100
+		culture = ainu
+		religion = animist
+		size = 3
 	}
 
 	artisans = {
-		culture = volga_german
-		religion = catholic
-		size = 2300
-	}
-
-	aristocrats = {
-		culture = siberian
+		culture = ainu
 		religion = animist
 		size = 15
-	}
-
-	clergymen = {
-		culture = siberian
-		religion = animist
-		size = 5
-	}
-
-	artisans = {
-		culture = siberian
-		religion = animist
-		size = 10
-	}
-
-	soldiers = {
-		culture = siberian
-		religion = animist
-		size = 10
-	}
-
-	farmers = {
-		culture = siberian
-		religion = animist
-		size = 440
-	}
-
-	farmers = {
-		culture = russian
-		religion = orthodox
-		size = 20
 	}
 }
 #Otomari (4100/1025 POPS)

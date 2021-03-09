@@ -1,7 +1,0 @@
-owner = RUT
-controller = RUT
-add_core = RUT
-trade_goods = coal
-life_rating = 40
-fort = 1
-terrain = mining_district

@@ -5,7 +5,7 @@ REB     =     "countries/rebels.txt"
 
 ##Voskres
 SDT        ="countries/Sudetes.txt"
-
+BND        ="countries/Brandenburg.txt"
 
 ##HPM
 PNK        ="countries/Pontianak.txt"

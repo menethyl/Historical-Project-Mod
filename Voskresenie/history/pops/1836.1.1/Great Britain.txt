@@ -71,33 +71,32 @@
 }
 #Orkney & Shetland - former Tamanrasset
 1724 = {
-
 	aristocrats = {
-		culture = danish
+		culture = faroese
 		religion = protestant
 		size = 40
 	}
 
 	clergymen = {
-		culture = danish
+		culture = faroese
 		religion = protestant
 		size = 225
 	}
 
 	soldiers = {
-		culture = danish
+		culture = faroese
 		religion = protestant
 		size = 375
 	}
 
 	artisans = {
-		culture = danish
+		culture = faroese
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = danish
+		culture = faroese
 		religion = protestant
 		size = 5860
 	}

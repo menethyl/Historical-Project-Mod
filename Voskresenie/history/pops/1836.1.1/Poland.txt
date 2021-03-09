@@ -1430,6 +1430,36 @@
 #Posen (540000/135000 POPS)
 699 = {
 	aristocrats = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1100
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 400
+	}
+	
+	aristocrats = {
 		culture = north_german
 		religion = protestant
 		size = 2000

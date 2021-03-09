@@ -1,4 +1,0 @@
-owner = TKS
-controller = TKS
-add_core = TKS
-add_core = KAZ

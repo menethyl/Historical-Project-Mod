@@ -3,13 +3,13 @@ primary_culture = ukrainian
 culture = byelorussian
 culture = russian
 religion = orthodox
-government = absolute_monarchy
-plurality = 1
+government = hms_government
+plurality = 5
 nationalvalue = nv_liberty
-literacy = 0.15
+literacy = 0.45
 civilized = yes
 
-set_country_flag = serfdom_not_abolished
+#set_country_flag = serfdom_not_abolished
 
 #GreaterPowers = prestige
 prestige = 90
@@ -17,12 +17,12 @@ prestige = 90
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = none_voting
+vote_franschise = wealth_voting
 public_meetings = yes_meeting
-press_rights = state_press
+press_rights = censored_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post
-political_parties = underground_parties
+political_parties = non_secret_ballots
 
 # Social Reforms
 wage_reform = no_minimum_wage

@@ -1,6 +1,0 @@
-owner = ICL
-controller = ICL
-add_core = ICL
-trade_goods = fish
-life_rating = 32
-colonial = 2
