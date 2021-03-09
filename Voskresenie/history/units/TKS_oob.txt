@@ -1,0 +1,215 @@
+army = {
+    name = "The Middle Juz Army"
+    location = 1185
+    regiment = {
+        name= "Juz Cavalry"
+        type = cavalry
+        home = 1185
+    }
+
+
+army = {
+    name = "Army of Nasrullah Khan"
+    location = 1198
+    regiment = {
+        name= "1st Buchara"
+        type = cavalry
+        home = 1198
+    }
+
+    regiment = {
+        name = "2nd Buchara"
+        type = cavalry
+        home = 1198
+    }
+
+    regiment = {
+        name= "3rd Buchara"
+        type = cavalry
+        home = 1198
+    }
+}
+
+army = {
+    name = "Army of Bukkhara"
+    location = 1198
+    regiment = {
+        name= "4th Buchara"
+        type = irregular
+        home = 1198
+    }
+
+    regiment = {
+        name= "5th Buchara"
+        type = irregular
+        home = 1198
+    }
+
+    regiment = {
+        name= "6th Buchara"
+        type = irregular
+        home = 1198
+    }
+}
+
+army = {
+    name = "Army of Samarkand"
+    location = 1199
+    regiment = {
+        name= "1.Samarkand"
+        type = irregular
+        home = 1199
+    }
+
+    regiment = {
+        name= "2.Samarkand"
+        type = irregular
+        home = 1199
+    }
+
+    regiment = {
+        name= "3.Samarkand"
+        type = irregular
+        home = 1199
+    }
+}
+
+army = {
+    name = "Kunduz Army"
+    location = 1210
+    regiment = {
+        name = "Khan's Warriors"
+        type = irregular
+        home = 1210
+    }
+
+    regiment = {
+        name = "Khan's Warriors"
+        type = irregular
+        home = 1210
+    }
+
+    regiment = {
+        name = "Khan's Warriors"
+        type = irregular
+        home = 1210
+    }
+
+    regiment = {
+        name = "Horse Raiders"
+        type = cavalry
+        home = 1208
+    }
+}
+
+army = {
+    name = "Kokand Army"
+    location = 1202
+    regiment = {
+        name= "1st Brigade"
+        type = irregular
+        home = 1189
+    }
+
+    regiment = {
+        name= "2nd Brigade"
+        type = irregular
+        home = 1189
+    }
+
+    regiment = {
+        name= "3rd Brigade"
+        type = irregular
+        home = 1189
+    }
+
+    regiment = {
+        name= "4th Brigade"
+        type = cavalry
+        home = 1195
+    }
+
+    regiment = {
+        name= "1st Cavalry"
+        type = cavalry
+        home = 1195
+    }
+}
+
+army = {
+    name = "2nd Army of The Khanate of Kokand"
+    location = 1202
+    regiment = {
+        name= "5th Brigade"
+        type = irregular
+        home = 1190
+    }
+
+    regiment = {
+        name= "6th Brigade"
+        type = irregular
+        home = 1203
+    }
+
+    regiment = {
+        name= "7th Brigade"
+        type = irregular
+        home = 1203
+    }
+
+    regiment = {
+        name= "2nd Brigade"
+        type = cavalry
+        home = 1195
+    }
+}
+
+army = {
+    name = "The Middle Juz Army"
+    location = 1185
+    regiment = {
+        name= "Juz Cavalry"
+        type = cavalry
+        home = 1185
+    }
+}
+
+leader = {
+    name = "Kenesary Khan"
+    type = land
+    date = 1836.1.1
+    background = aristocrat
+    personality = mediocre
+}
+
+leader = {
+    name = "Muhammad Ali Khan"
+    type = land
+    date = 1820.8.20
+    background = aristocrat
+    personality = merciless
+}
+
+leader = {
+    name = "Mohammad Murad Beg"
+    type = land
+    date = 1825.8.20
+    background = aristocrat
+    personality = merciless
+}
+
+leader = {
+    name = "Nasr-Allah bin Haydar Tora"
+    type = land
+    date = 1820.8.20
+    background = aristocrat
+    personality = merciless
+}
+
+leader = {
+    name = "Kenesary Khan"
+    type = land
+    date = 1836.1.1
+    background = aristocrat
+    personality = mediocre
+}
